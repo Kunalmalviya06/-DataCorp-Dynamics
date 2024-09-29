@@ -1,5 +1,5 @@
-- **Dashboard 1:** ![Dashboard](Dashboard.jpg)
-- **Dashboard 2:** ![Dashboard 2](Dashboard2.jpg)
+![Dashboard](Dashboard.jpg)
+![Dashboard 2](Dashboard2.jpg)
 
 # DataCorp Dynamics: Unleashing Insights for Operational Excellence
 
@@ -13,8 +13,8 @@
 - [Technologies Used](#technologies-used)
 - [Dashboards](#dashboards)
 - [License](#license)
-
-  ## Project Overview
+ 
+## Project Overview
 DataCorp, a thriving e-commerce company, has recently faced significant challenges, including increasing customer complaints regarding late deliveries and product quality. As data science trainees, we were tasked with analyzing the company’s data to uncover insights and provide actionable recommendations for operational improvement and enhanced customer experience.
 
 ## Problem Statement
