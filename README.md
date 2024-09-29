@@ -1,5 +1,5 @@
-![Dashboard](dashboard.jpg)
-![Dashboard 2](dashboard2.jpg)
+- **Dashboard 1:** ![Dashboard](Dashboard.jpg)
+- **Dashboard 2:** ![Dashboard 2](Dashboard2.jpg)
 
 # DataCorp Dynamics: Unleashing Insights for Operational Excellence
 
